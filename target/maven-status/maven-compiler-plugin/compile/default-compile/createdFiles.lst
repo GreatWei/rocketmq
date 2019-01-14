@@ -1,0 +1,5 @@
+com\wei\rocketmq\RocketMQListener.class
+com\wei\rocketmq\RocketMQProducer.class
+com\wei\rocketmq\RocketMQConsumer.class
+com\wei\rocketmq\RocketMQProducerTest.class
+com\wei\rocketmq\RocketMQConsumerTest.class
